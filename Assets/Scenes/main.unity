@@ -417,6 +417,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   max_speed: 12
+  jump_height: 100
+  user_layer_platform: 8
 --- !u!1001 &1728140280
 Prefab:
   m_ObjectHideFlags: 0
